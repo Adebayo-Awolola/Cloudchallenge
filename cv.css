@@ -1,0 +1,37 @@
+body{
+
+    font-family: sans-serif;
+    background: #e6eaec;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-style: normal;
+}
+#resume {
+    text-align: center;
+    transform: skewX(5deg);
+    
+}
+#SUMMARY {
+    border-style: groove;
+    border-width: 4px;
+    border-radius: 20px; 
+    
+}
+h2 {
+    background-color: rgb(151, 179, 214);
+}
+.column {
+    float: left;
+    width: 50%;
+  }
+ /*div {
+    column-count: 2;
+ }*/
+ button {
+    background-color:rgb(212, 181, 212);
+    border-radius: 20px;
+    padding: auto;
+    margin: 15px;
+    max-width: fit-content;
+ }
